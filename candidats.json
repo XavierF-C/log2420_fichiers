@@ -1,0 +1,413 @@
+{
+  "Candidats":
+  [
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "Justin Trudeau"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "membre 1"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.C.C.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "B.Q.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "N.P.D.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.V.C.",
+      "nom": "Elizabeth May"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.P.C.",
+      "nom": "membre 1"
+    },
+    
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "membre 2"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.C.C.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "B.Q.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "N.P.D.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.V.C.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.P.C.",
+      "nom": "membre 2"
+    },
+    
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "membre 3"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.C.C.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "B.Q.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "N.P.D.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.V.C.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "43e élection fédérale",
+      "abreviation": "P.P.C.",
+      "nom": "membre 3"
+    },
+	{
+      "election": "42e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "Justin Trudeau"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "membre 1"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.C.C.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "B.Q.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "N.P.D.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.V.C.",
+      "nom": "membre 1"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.P.C.",
+      "nom": "membre 1"
+    },
+    
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "membre 2"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.C.C.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "B.Q.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "N.P.D.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.V.C.",
+      "nom": "membre 2"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.P.C.",
+      "nom": "membre 2"
+    },
+    
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.L.C",
+      "nom": "membre 3"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.C.C.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "B.Q.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "N.P.D.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.V.C.",
+      "nom": "membre 3"
+    },
+    {
+      "election": "42e élection fédérale",
+      "abreviation": "P.P.C.",
+      "nom": "membre 3"
+    },
+    
+    
+    
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "C.A.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.L.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.V.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "Q.S",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.C.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.I.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "C.A.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.L.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.V.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "Q.S",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.C.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.I.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "C.A.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.L.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.V.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "Q.S",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.C.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales1er octobre 2018",
+      "abreviation": "P.I.Q",
+      "nom": "membre 3"
+    },
+    
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "C.A.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.L.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.V.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "Q.S",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.C.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.I.Q",
+      "nom": "membre 1"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "C.A.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.L.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.V.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "Q.S",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.C.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.I.Q",
+      "nom": "membre 2"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "C.A.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.L.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.V.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "Q.S",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.C.Q",
+      "nom": "membre 3"
+    },
+    {
+      "election": "Élections générales provinciales7 avril 2014",
+      "abreviation": "P.I.Q",
+      "nom": "membre 3"
+    },
+  ]
+}
